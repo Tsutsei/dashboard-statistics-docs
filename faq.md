@@ -8,7 +8,7 @@ permalink: /faq/
 Team, Organizations, Request Type, Sprint, Status, Status category, Priority, Work type, Space, Parent, Assignee, Reporter and other people fields, Labels, Components, versions, select lists (single, multiple and cascading), checkboxes, radio buttons, groups, number and short text fields, and every date field by day, week, month, quarter or year.
 
 **What can be summed?**
-Any number field – "Story Points" of company-managed spaces, "Story point estimate" of team-managed spaces, your own number fields – and the original estimate, remaining estimate and time spent, shown in hours. You can also show the average.
+Any number field – "Story Points" of company-managed spaces, "Story point estimate" of team-managed spaces, your own number fields – and the original estimate, remaining estimate and time spent, shown in hours. You can also show the average, the minimum or the maximum.
 
 **Why do the rows add up to more than the total?**
 A work item with several values – two labels, two sprints, two organizations – is counted in each of them. The total counts every work item once. The gadget shows a note when this happens.

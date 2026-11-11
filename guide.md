@@ -19,8 +19,8 @@ To change a gadget later, open the dashboard editor and choose **Edit** in the g
 ## Statistics
 - **Rows** – the field to group by. Team, Organizations and Sprint come first; every field of your site that can be grouped follows.
 - **Columns** – a second field, or *None* for one dimension.
-- For **date fields** (Created, Resolved, Due date, your own dates) choose the period: day, week, month, quarter or year.
-- **Value** – the number of work items, or the **sum** or **average** of a number field: story points, your own number fields, original estimate, remaining estimate, time spent (shown in hours).
+- For **date fields** (Created, Resolved, Due date, your own dates) choose the period: day, week, month, quarter or year. Periods without work items are shown as zero.
+- **Value** – the number of work items, or the **sum**, **average**, **minimum** or **maximum** of a number field: story points, your own number fields, original estimate, remaining estimate, time spent (shown in hours).
 - **Order of rows** – *Automatic* puts statuses in workflow order, dates, sprints and priorities in their natural order, and everything else by the highest value. You can also sort by name or by value.
 - **Max. rows** and **Max. columns** – the top ones are shown and the rest is added up as *Other*. Use 0 to show everything.
 
@@ -28,7 +28,9 @@ To change a gadget later, open the dashboard editor and choose **Edit** in the g
 - **Chart** – bars, columns, line, pie, donut, or no chart. With columns chosen, bars and columns are stacked and the line chart draws one line per column value. A pie needs one dimension.
 - **Show the table** – the numbers under the chart. Bars of one dimension already show the value, the share and the total.
 - **Heat map** – colours the cells of a two-dimensional table by their value.
-- **Show percentages** – the share of each row in the total.
+- **Percentages** – the share of each row in the total; in a two-dimensional table also the share of each cell in its row or in its column.
+- **Stack to 100 %** – stacked bars and columns show shares instead of amounts, for example how much of each team's work is done.
+- **Running total** – lines and columns add up from period to period.
 - **Include work items without a value** – shows them as *None*; untick to leave them out.
 - **Title** and **Refresh every** – an optional heading and how often the gadget reloads.
 
@@ -43,5 +45,6 @@ To change a gadget later, open the dashboard editor and choose **Edit** in the g
 - *Team by Status* with the sum of story points – who has how much work in which state.
 - *Organizations* as a donut over a service space – which customers raise the most requests.
 - *Sprint* by *Status category* as columns – what was finished in each sprint.
-- *Parent* by *Status category* with the sum of story points – progress of every epic.
+- *Parent* by *Status category* with the sum of story points, stacked to 100 % – progress of every epic.
+- *Created* by month as a line with a running total – how the backlog grew.
 - *Resolved* by month as a line, with *Work type* as columns – throughput over time.
