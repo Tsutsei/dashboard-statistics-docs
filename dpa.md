@@ -6,7 +6,7 @@ permalink: /dpa/
 
 _Last updated: 11 November 2026_
 
-This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Dashboard Statistics – Team, Organization & Sum Gadgets for Jira** ("Customer", controller) and **Bc. Tomáš Buchta, sole trader, IČO 21540951, 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
+This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Dashboard Statistics – Team, Organization & Sums for Jira** ("Customer", controller) and **Bc. Tomáš Buchta, sole trader, IČO 21540951, 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
 
 1. **Subject matter and duration.** Showing statistics of the Customer's Jira work items on dashboards, for as long as the App is installed.
 2. **Nature and purpose.** Reading, in the viewing user's browser and with that user's Jira permissions, the values of the fields chosen for a gadget, counting them and showing the result to that user. Nothing is stored or transmitted by the App.

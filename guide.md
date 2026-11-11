@@ -22,7 +22,7 @@ To change a gadget later, open the dashboard editor and choose **Edit** in the g
 - For **date fields** (Created, Resolved, Due date, your own dates) choose the period: day, week, month, quarter or year.
 - **Value** – the number of work items, or the **sum** or **average** of a number field: story points, your own number fields, original estimate, remaining estimate, time spent (shown in hours).
 - **Order of rows** – *Automatic* puts statuses in workflow order, dates, sprints and priorities in their natural order, and everything else by the highest value. You can also sort by name or by value.
-- **Rows shown** – the top rows are shown and the rest is added up as *Other*. Use 0 to show everything.
+- **Max. rows** and **Max. columns** – the top ones are shown and the rest is added up as *Other*. Use 0 to show everything.
 
 ## Display
 - **Chart** – bars, columns, line, pie, donut, or no chart. With columns chosen, bars and columns are stacked and the line chart draws one line per column value. A pie needs one dimension.
