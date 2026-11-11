@@ -1,0 +1,8 @@
+title: Dashboard Statistics for Jira
+description: Dashboard gadgets that count work items or sum story points and time by Team, Organizations, Sprint or any field – user guide, FAQ, privacy, terms and support.
+theme: minima
+header_pages:
+  - index.md
+  - guide.md
+  - faq.md
+  - support.md
