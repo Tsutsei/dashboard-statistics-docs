@@ -6,7 +6,7 @@ permalink: /privacy/
 
 _Last updated: 11 November 2026_
 
-This policy describes how the Atlassian Marketplace app "Dashboard Statistics – Team, Organization & Sums for Jira" (the "App") processes data. The App is provided by **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
+This policy describes how the Atlassian Marketplace app "Dashboard Statistics – Team, Organization & Sums for Jira" (the "App") processes data. The App is provided by **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal) page ("we"). Contact: **[support@tsutsei-software.com](mailto:support@tsutsei-software.com)**.
 
 ## 1. What the App stores
 Nothing. The App has no storage and no server-side code. The settings of a gadget – the id and name of a saved filter or a JQL search, the chosen fields and display options – are stored by Jira itself as properties of the dashboard.
@@ -30,7 +30,7 @@ The [Data Processing Addendum]({{ '/dpa/' | relative_url }}) (Art. 28 GDPR) appl
 We do not sell or share data. Sub-processor: Atlassian (hosting of the Forge platform).
 
 ## 8. Your rights
-For requests concerning personal data, contact your Jira site admin or us at [support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net).
+For requests concerning personal data, contact your Jira site admin or us at [support@tsutsei-software.com](mailto:support@tsutsei-software.com).
 
 ## 9. Changes
 We will publish changes to this policy on this page.

@@ -7,7 +7,7 @@ permalink: /support/
 Need help with **Dashboard Statistics for Jira**?
 
 - **Support portal:** [tsutsei-support.atlassian.net](https://tsutsei-support.atlassian.net/servicedesk/customer/portal/1) – raise a request (technical support, bug reports, licensing and billing, feature ideas).
-- **E-mail:** [support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)
+- **E-mail:** [support@tsutsei-software.com](mailto:support@tsutsei-software.com)
 - **Security issues:** [security@tsutsei-support.atlassian.net](mailto:security@tsutsei-support.atlassian.net) – see the [security policy]({{ '/security/' | relative_url }}).
 - **Response time:** within 2 business days (Central European Time).
 

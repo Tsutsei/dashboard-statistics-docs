@@ -6,13 +6,13 @@ permalink: /dpa/
 
 _Last updated: 11 November 2026_
 
-This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Dashboard Statistics – Team, Organization & Sums for Jira** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
+This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Dashboard Statistics – Team, Organization & Sums for Jira** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
 
 1. **Subject matter and duration.** Showing statistics of the Customer's Jira work items on dashboards, for as long as the App is installed.
 2. **Nature and purpose.** Reading, in the viewing user's browser and with that user's Jira permissions, the values of the fields chosen for a gadget, counting them and showing the result to that user. Nothing is stored or transmitted by the App.
 3. **Types of personal data.** Names and Atlassian account ids of people in fields a gadget groups by (for example assignee or reporter), as far as the viewing user may see them in Jira.
 4. **Data subjects.** Users and customers of the Customer's Jira site who appear in such fields.
-5. **Instructions.** The Vendor processes personal data only to operate the App as used by the Customer and on documented instructions sent to [support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net).
+5. **Instructions.** The Vendor processes personal data only to operate the App as used by the Customer and on documented instructions sent to [support@tsutsei-software.com](mailto:support@tsutsei-software.com).
 6. **Where data is processed.** Exclusively in the user's browser and within Atlassian's platform for the Customer's site. The App sends no data outside Atlassian. The Vendor has no access to the data.
 7. **Sub-processor.** Atlassian (provider of the Forge platform), under Atlassian's own terms and data processing addendum. The Vendor will announce any new sub-processor on this page in advance.
 8. **Security.** The App has no server-side code and no storage; data is protected by the security measures of Atlassian's platform and by Jira's permissions.
